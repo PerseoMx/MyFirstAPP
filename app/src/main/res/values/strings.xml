@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FirstAppActivity</string>
+    <string name="altura">Altura</string>
+    <string name="peso">Peso</string>
+    <string name="edad">Edad</string>
+    <string name="calcular">Calcular</string>
+    <string name="result">Tu Resultado</string>
+    <string name="recalCulate">Re-Calcular</string>
+
+    <string name="error">Error</string>
+
+    <string name="title_bajo_peso">Bajo Peso</string>
+    <string name="description_bajo_peso">Estás por debajo de lo óptimo para tu peso y altura</string>
+
+    <string name="title_peso_normar">Peso Normal</string>
+    <string name="description_peso_normal">Estás en lo óptimo para tu peso y altura</string>
+
+    <string name="title_sobrepeso">Sobrepeso</string>
+    <string name="description_soprepeso">Estás por encima de lo óptimo para tu peso y altura</string>
+
+    <string name="title_obesidad">Obesidad</string>
+    <string name="description_obesidad">Estás MUY por encima de lo óptimo para tu peso y altura</string>
+
+</resources>
